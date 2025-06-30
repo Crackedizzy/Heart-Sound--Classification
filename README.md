@@ -67,7 +67,7 @@ cd heart-sound-classification
 
 3. Open and run:
 
-  - notebooks/custom_cnn_model.ipynb
+    - notebooks/custom_cnn_model.ipynb
 
-  - notebooks/pretrained_models.ipynb
+    - notebooks/pretrained_models.ipynb
 
