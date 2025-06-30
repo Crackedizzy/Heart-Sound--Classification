@@ -10,7 +10,7 @@ The goal is to assist in early detection of cardiovascular abnormalities by leve
 
 ## 📊 Dataset
 
-- **Source**: PhysioNet Challenge 2021 – [https://physionet.org/content/challenge-2021/1.0.0/](https://physionet.org/content/challenge-2021/1.0.0/)
+- **Source**: PhysioNet Challenge 2021 – [https://physionet.org/content/challenge-2016/1.0.0/](https://physionet.org/content/challenge-2016/1.0.0/)
 - **Content**: Heart sound recordings in WAV format, labeled as normal or abnormal
 - 🛑 **Note**: The dataset is not included in this repository due to licensing. Please download it directly from the PhysioNet website and place it in the `data/` folder.
 
