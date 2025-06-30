@@ -61,6 +61,7 @@ The goal is to assist in early detection of cardiovascular abnormalities by leve
 ```bash
 git clone https://github.com/Crackedizzy/heart-sound-classification.git
 cd heart-sound-classification
+```
 
 2. Download the dataset from PhysioNet and place files in the data/ folder.
 
