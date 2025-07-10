@@ -76,7 +76,7 @@ cd heart-sound-classification
 
 | Model        | F1 Score (Abnormal) | Accuracy | Recall (Abnormal) | Precision (Abnormal) |
 |--------------|---------------------|----------|--------|-----------|
-| Custom CNN   |       0.74          |   88%    |  88%   | _(64%)_     |
-| VGGish       |       0.78          |   92%    | _75%_  | _(82%)_     |
-| InceptionV3  |       0.74          |   90%    | _70%_  | _(79%)_     |
-| YAMNet       |       0.78          |   92%    | _73%  | _(84%)_     |
+| Custom CNN   |       0.74          |   88%    |  88%   | 64%     |
+| VGGish       |       0.78          |   92%    | 75%  | 82%     |
+| InceptionV3  |       0.74          |   90%    | 70%  | 79%     |
+| YAMNet       |       0.78          |   92%    | 73%  | 84%     |
