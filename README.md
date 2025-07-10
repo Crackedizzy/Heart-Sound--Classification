@@ -71,3 +71,12 @@ cd heart-sound-classification
 
     - notebooks/pretrained_models.ipynb
 
+---
+## 📌 Results Summary
+
+| Model        | F1 Score (Abnormal) | Accuracy | Recall | Precision |
+|--------------|---------------------|----------|--------|-----------|
+| Custom CNN   |       0.74          |   88%    | _(%)_  | _(%)_     |
+| VGGish       |       0.78          |   92%    | _(%)_  | _(%)_     |
+| InceptionV3  |       0.74          |   90%    | _(%)_  | _(%)_     |
+| YAMNet       |       0.78          |   92%    | _(92%)_  | _(%)_     |
