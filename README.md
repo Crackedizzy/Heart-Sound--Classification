@@ -80,3 +80,17 @@ cd heart-sound-classification
 | VGGish       |       0.78          |   92%    | 75%  | 82%     |
 | InceptionV3  |       0.74          |   90%    | 70%  | 79%     |
 | YAMNet       |       0.78          |   92%    | 73%  | 84%     |
+
+---
+## 💡 Future Improvements
+
+- Improve class balance with data augmentation
+- Explore attention-based audio models
+- Build a Streamlit demo for audio upload + live classification
+
+---
+## 👨‍💻 Author
+
+**Israel Morakinyo**  
+BSc (Hons) Computer Science – First Class  
+[GitHub](https://github.com/Crackedizzy) | [LinkedIn](https://www.linkedin.com/in/israel-morakinyo-98b00a204/)
