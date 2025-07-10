@@ -38,7 +38,7 @@ The goal is to assist in early detection of cardiovascular abnormalities by leve
 
 | CNN Confusion Matrix | Mel-Spectrogram |
 |----------------------|-----------------|
-| ![Confusion Matrix](plots/cnn_confusion_matrix.png) | ![Spectrogram](plots/example_spectrogram.png) |
+| ![Confusion Matrix](plots/cnn_confusion_matrix.png) | ![Spectrogram](plots/normal_heart_sound_spectrogram.png) |
 
 > 📝 *If plots are not visible, ensure images are in the `plots/` folder with matching filenames.*
 
